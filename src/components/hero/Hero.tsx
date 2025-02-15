@@ -7,7 +7,7 @@ const Hero: React.FC = () => {
       <S.sectionContainer>
         <S.div>
           <S.title>
-            Parabéns!!! Você foi convocado para o meu aniversário!!
+            Parabéns!!! Você foi convocado(a) para o meu aniversário!!
           </S.title>
           <S.p>
             Será no dia 22/02/2025 (isso mesmo, sábado que vem) na nossa
