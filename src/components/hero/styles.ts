@@ -7,9 +7,25 @@ export const sectionContainer = styled.section`
     text-align: center;
     padding: 1.5rem;
 `;
-export const title = styled.h1``;
-export const titleTwo = styled.h1``;
-export const p = styled.p``;
+export const title = styled.h1`
+    font-size: 2rem;
+    font-weight: 700;
+    color: #ffff;
+`;
+export const titleTwo = styled.h2`
+     font-size: 2rem;
+     font-weight: 600;
+     color: #ffff;
+`;
+export const p = styled.p`
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: #ffff;
+`;
 export const img = styled.img``;
 
-export const div = styled.div``;
+export const div = styled.div`
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+`;
