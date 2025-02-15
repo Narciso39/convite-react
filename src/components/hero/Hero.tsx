@@ -1,6 +1,5 @@
 import React from "react";
 import * as S from "./styles";
-import MapComponent from "../map/Map";
 
 const Hero: React.FC = () => {
   return (
