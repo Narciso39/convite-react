@@ -8,10 +8,10 @@ export const sectionContainer = styled.section`
   padding: 1.5rem;
 `;
 export const title = styled.h1`
-  font-size: 2rem;
+  font-size: 1.7rem;
   font-weight: 700;
   color: #ffff;
-  padding: 1rem;
+  padding: 0.4rem;
 `;
 export const titleTwo = styled.h2`
   font-size: 2rem;
