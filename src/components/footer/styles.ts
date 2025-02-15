@@ -6,6 +6,7 @@ export const footer = styled.footer`
     align-items: center;
     justify-content: center;
     text-align: center;
+    padding: 2rem;
 `;
 
 export const p = styled.p`
