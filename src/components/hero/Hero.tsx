@@ -25,7 +25,7 @@ const Hero: React.FC = () => {
         <S.div>
           <S.titleTwo> Ponto de encontro:</S.titleTwo>
           <S.titleTwo>Bar do frangão </S.titleTwo>
-          <S.img src="src/assets/FRANGAO.jpg"></S.img>
+          <S.img src="/FRANGAO.jpg"></S.img>
         </S.div>
       </S.sectionContainer>
     </>
